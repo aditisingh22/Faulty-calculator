@@ -1,1 +1,1 @@
-# Faulty-calcutaor
+# Faulty-calculator

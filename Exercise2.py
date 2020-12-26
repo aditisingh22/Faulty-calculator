@@ -4,7 +4,6 @@ a=int(input("Enter the first number:"))
 b=int(input("Enter the second number:"))
 op=input("Enter operator")
 
-while(True):
 if op is '+':
     if (a is 56) and (b is 9):
         print("77")
